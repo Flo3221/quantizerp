@@ -5,7 +5,7 @@
 QuantizerP is a project developed to illustrate the concepts presented in the paper "Simultaneous compensation of input delay and state/input quantization
 	for linear systems via switched predictor feedback" ([SCL](https://www.sciencedirect.com/science/article/pii/S0167691124002007?ref=pdf_download&fr=RR-2&rr=8b9b8fc31926eec4) ). 
  
- This project simulates a linear time-delay system represented by the following differential equation: For detailed equations and parameters, 
+ This project simulates a linear time-delay system. For detailed equations and parameters, 
  refer to the ([Mathematical Details](https://tucgr-my.sharepoint.com/:b:/g/personal/fkoudohode_tuc_gr/EQMZt_JoHTxClA2cSibvOacBsN0FpqYPkZIoLCFf_xnM8w?e=PFkfER)).
 
 ## Requirements
