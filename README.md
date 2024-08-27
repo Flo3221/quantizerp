@@ -68,6 +68,10 @@ This project is licensed under the CC BY-NC-ND  ([`LICENSE`](https://creativecom
 
 For questions or feedback, please contact [fkoudohode@tuc.gr](mailto:fkoudohode@tuc.gr).
 
+# Acknowledgements
+
+Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. 
+
 ## Cite this work
 ```
 @article{fkoudohode2024,
